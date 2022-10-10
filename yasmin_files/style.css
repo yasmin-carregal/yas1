@@ -1,0 +1,34 @@
+#euyas{
+    height: 500px;
+    width: 500px;
+    border-radius: 2000px;
+    background-color: beige;
+}
+#quarto-da-yasmin{
+    text-align: center;
+    background-color: pink;
+    height: 650px;
+
+}
+#serie1{
+    height: 500px;
+    border-radius: 2000px;
+    width: 500px;
+    text-align: center;
+}
+#serie2{
+    width: 500px;
+    height: 500px;
+    border-radius: 2000px;
+    text-align: justify;
+}
+.div-vertical{
+    background-color:oldlace ;
+    width: 100%;
+    height: 900px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+img{
+    margin: auto;
+}
